@@ -2,7 +2,21 @@
 
 ### Everything about [IBM Machine Learning Professional Certificate @coursera](https://www.coursera.org/professional-certificates/ibm-machine-learning)
 
-Full document: [google docs](https://docs.google.com/document/d/1xsSAjl1g0A2olHucDs5NyDNTvLP9tRnoCM8giA1Bb2E/edit?usp=sharing)
+Full document notes: [IBM Machine Learning Professional Certificate - Google Document](https://docs.google.com/document/d/1xsSAjl1g0A2olHucDs5NyDNTvLP9tRnoCM8giA1Bb2E/edit?usp=sharing)
+
+#### My Certificate:
+
+<image>
+
+#### My Final Project:
+
+Full slide: [[Final Report] Coursera 6 Machine Learning Capstone - IBM Machine Learning Professional Certificate - Google Slide](https://docs.google.com/presentation/d/1UZ1RIM-kcVPi_ATmvhmePxuSogRLmZPjc0arH0BUWgA/edit?usp=sharing)
+
+<image>
+
+#### My Final Product:
+
+<image>
 
 *Hello and thank you for taking the time to read my personal note on IBM Machine Learning Professional Certificate courses. As a student in these courses, I'm writing this note for two reasons. The first is for my personal use only. Taking notes is an efficient way for me to learn new things and improve my memory. Second, I'd like to share this note with those of you who are also on the Machine Learning journey. I hope it is of some assistance to all of you.*
 
